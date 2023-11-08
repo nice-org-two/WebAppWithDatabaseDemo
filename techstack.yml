@@ -1,7 +1,7 @@
 repo_name: nice-org-two/WebAppWithDatabaseDemo
-report_id: 6f773238632673993be5d90a739f279b
+report_id: f61180543589920755f07f7b4f19ba39
 repo_type: Public
-timestamp: '2023-11-07T12:50:25+00:00'
+timestamp: '2023-11-08T07:34:02+00:00'
 requested_by: HoussemDellai
 provider: github
 branch: master
@@ -16,7 +16,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
+  image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
   detection_source_url: SeleniumUiTests/SeleniumUiTests.csproj
   detection_source: SeleniumUiTests/SeleniumUiTests.csproj
 - name: C#
@@ -27,7 +27,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -36,7 +36,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/6727/css.png
+  image_url: https://img.stackshare.io/service/6727/css.png
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -46,7 +46,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/1209/javascript.jpeg
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -56,7 +56,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/989/ruby.png
+  image_url: https://img.stackshare.io/service/989/ruby.png
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -65,7 +65,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
   detection_source: WebApp.Database/dbo/Tables/Employee.sql
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -77,7 +77,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
-  imageURL: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
   detection_source_url: SeleniumUiTests/SeleniumUiTests.csproj
   detection_source: SeleniumUiTests/SeleniumUiTests.csproj
 - name: ".NET Core"
@@ -90,7 +90,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
-  imageURL: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
   detection_source_url: WebApp.UnitTest/WebApp.UnitTest.csproj
   detection_source: WebApp/WebApp.csproj
 - name: ASP.NET Core
@@ -103,7 +103,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
-  imageURL: https://img.stackshare.io/service/11331/asp.net-core.png
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
   detection_source_url: WebApp.UnitTest/WebApp.UnitTest.csproj
   detection_source: WebApp/WebApp.csproj
 - name: Azure SQL Database
@@ -114,7 +114,7 @@ tools:
   hosted_saas: true
   category: Data Stores
   sub_category: SQL Database as a Service
-  imageURL: https://img.stackshare.io/service/3433/OJB_wH-7_400x400.jpg
+  image_url: https://img.stackshare.io/service/3433/OJB_wH-7_400x400.jpg
   detection_source_url: WebApp.Database/WebApp.Database.sqlproj
   detection_source: WebApp.Database/WebApp.Database.sqlproj
 - name: Git
@@ -124,7 +124,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Version Control System
-  imageURL: https://img.stackshare.io/service/1046/git.png
+  image_url: https://img.stackshare.io/service/1046/git.png
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -133,7 +133,7 @@ tools:
   hosted_saas: true
   category: Build, Test, Deploy
   sub_category: Continuous Integration
-  imageURL: https://img.stackshare.io/service/11563/actions.png
+  image_url: https://img.stackshare.io/service/11563/actions.png
   detection_source: ".github/workflows/dotnetcore.actions.yml"
 - name: Istio
   description: Open platform to connect, manage, and secure microservices, by Google,
@@ -144,7 +144,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Microservices Tools
-  imageURL: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
+  image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
   detection_source: 03_azure-pipelines-ci-cd.yml
 - name: NuGet
   description: The package manager for .NET
@@ -153,7 +153,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Package Managers
-  imageURL: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
   detection_source: WebApp/WebApp.csproj
 - name: Terraform
   description: Describe your complete infrastructure as code and build resources across
@@ -164,7 +164,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
-  imageURL: https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png
+  image_url: https://img.stackshare.io/service/1276/default_2316907c4199f912e2ed79cbdb99025c9e5e2665.png
   detection_source: Terraform/webapp-db.tf
 - name: Terraform Registry
   description: Describe your complete infrastructure as code and build resources across
@@ -175,7 +175,7 @@ tools:
   hosted_saas: false
   category: Build, Test, Deploy
   sub_category: Package Managers
-  imageURL: https://img.stackshare.io/package_manager/49093/default_cdf079d244bded073d455911e6ce679abb1b77ab.png
+  image_url: https://img.stackshare.io/package_manager/49093/default_cdf079d244bded073d455911e6ce679abb1b77ab.png
   detection_source: Terraform/webapp-db.tf
 - name: Firefox
   description: Mozilla's Web Browser
@@ -184,7 +184,7 @@ tools:
   hosted_saas: false
   category: Back Office
   sub_category: Web Browser
-  imageURL: https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png
+  image_url: https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png
   detection_source: SeleniumUiTests/packages.config
 - name: PowerShell
   description: A task automation and configuration management framework
@@ -193,7 +193,7 @@ tools:
   hosted_saas: false
   category: Languages & Frameworks
   sub_category: Languages
-  imageURL: https://img.stackshare.io/service/3681/powershell-logo.png
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
   detection_source: Repo Metadata
 - name: MSTest.TestFramework
   description: This is MSTest V2, the evolution of Microsoft's Test Framework
@@ -204,7 +204,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: NuGet Packages
-  imageURL: https://img.stackshare.io/package/13142/default_a057bdad489be3cb053d372a68695da4ac94962d.png
+  image_url: https://img.stackshare.io/package/13142/default_a057bdad489be3cb053d372a68695da4ac94962d.png
   detection_source_url: SeleniumUiTests/packages.config
   detection_source: WebApp.UnitTest/WebApp.UnitTest.csproj
 - name: Microsoft.EntityFrameworkCore.SqlServer
@@ -216,7 +216,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: NuGet Packages
-  imageURL: https://img.stackshare.io/package/12891/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
+  image_url: https://img.stackshare.io/package/12891/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
   detection_source_url: WebApp/WebApp.csproj
   detection_source: WebApp/WebApp.csproj
 - name: Microsoft.EntityFrameworkCore.Tools
@@ -229,7 +229,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: NuGet Packages
-  imageURL: https://img.stackshare.io/package/13138/default_a057bdad489be3cb053d372a68695da4ac94962d.png
+  image_url: https://img.stackshare.io/package/13138/default_a057bdad489be3cb053d372a68695da4ac94962d.png
   detection_source_url: WebApp/WebApp.csproj
   detection_source: WebApp/WebApp.csproj
 - name: Microsoft.VisualStudio.Web.CodeGeneration.Design
@@ -241,7 +241,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: NuGet Packages
-  imageURL: https://img.stackshare.io/package/13477/default_eb78542773998d1500f13778aa04738ef49376bd.png
+  image_url: https://img.stackshare.io/package/13477/default_eb78542773998d1500f13778aa04738ef49376bd.png
   detection_source_url: WebApp/WebApp.csproj
   detection_source: WebApp/WebApp.csproj
 - name: Selenium.Firefox.WebDriver
@@ -254,7 +254,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: NuGet Packages
-  imageURL: https://img.stackshare.io/package/13910/default_12c355ecd1469432782d9a53a6225a499e793b39.png
+  image_url: https://img.stackshare.io/package/13910/default_12c355ecd1469432782d9a53a6225a499e793b39.png
   detection_source_url: SeleniumUiTests/packages.config
   detection_source: SeleniumUiTests/packages.config
 - name: Selenium.WebDriver
@@ -267,7 +267,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: NuGet Packages
-  imageURL: https://img.stackshare.io/package/12976/default_c33fee4544dbdcb376300222dc5e214ee63f7ce9.png
+  image_url: https://img.stackshare.io/package/12976/default_c33fee4544dbdcb376300222dc5e214ee63f7ce9.png
   detection_source_url: SeleniumUiTests/packages.config
   detection_source: SeleniumUiTests/packages.config
 - name: Selenium.WebDriver.ChromeDriver
@@ -279,7 +279,7 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: NuGet Packages
-  imageURL: https://img.stackshare.io/package/13327/default_9a849f196ca7930b27f663ae8f15c937ea1b49e5.png
+  image_url: https://img.stackshare.io/package/13327/default_9a849f196ca7930b27f663ae8f15c937ea1b49e5.png
   detection_source_url: SeleniumUiTests/packages.config
   detection_source: SeleniumUiTests/packages.config
 - name: Selenium.WebDriver.IEDriver
@@ -291,6 +291,6 @@ tools:
   hosted_saas: false
   category: Libraries
   sub_category: NuGet Packages
-  imageURL: https://img.stackshare.io/package/13511/default_a5f7e489f1a0992baa6377c8f765ce325404bce2.png
+  image_url: https://img.stackshare.io/package/13511/default_a5f7e489f1a0992baa6377c8f765ce325404bce2.png
   detection_source_url: SeleniumUiTests/packages.config
   detection_source: SeleniumUiTests/packages.config
