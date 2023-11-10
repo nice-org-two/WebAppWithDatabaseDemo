@@ -46,8 +46,8 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [nice-org-two/WebAppWithDatabaseDemo](https://github.com/nice-org-two/WebAppWithDatabaseDemo)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|26<br/>Tools used|1<br/>Contributors|11/08/23 <br/>Report generated|10/03/22<br/>Last commit date|
-|------|------|------|------|
+|26<br/>Tools used|11/10/23 <br/>Report generated|
+|------|------|
 </div>
 
 ## <img src='https://img.stackshare.io/languages.svg'/> Languages (6)
@@ -226,14 +226,14 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[MSTest.TestFramework](https://www.nuget.org/MSTest.TestFramework)|v2.2.8|N/A|N/A |MIT|N/A|
-|[Microsoft.EntityFrameworkCore.SqlServer](https://www.nuget.org/Microsoft.EntityFrameworkCore.SqlServer)|v6.0.0|N/A|N/A |Apache-2.0|N/A|
-|[Microsoft.EntityFrameworkCore.Tools](https://www.nuget.org/Microsoft.EntityFrameworkCore.Tools)|v6.0.0|N/A|N/A |Apache-2.0|N/A|
-|[Microsoft.VisualStudio.Web.CodeGeneration.Design](https://www.nuget.org/Microsoft.VisualStudio.Web.CodeGeneration.Design)|v6.0.0|N/A|N/A |Apache-2.0|N/A|
-|[Selenium.Firefox.WebDriver](https://www.nuget.org/Selenium.Firefox.WebDriver)|v0.27.0|N/A|N/A |Unlicense|N/A|
-|[Selenium.WebDriver](https://www.nuget.org/Selenium.WebDriver)|v4.1.0|N/A|N/A |Apache-2.0|N/A|
-|[Selenium.WebDriver.ChromeDriver](https://www.nuget.org/Selenium.WebDriver.ChromeDriver)|v96.0.4664|N/A|N/A |Unlicense|N/A|
-|[Selenium.WebDriver.IEDriver](https://www.nuget.org/Selenium.WebDriver.IEDriver)|v4.0.0|N/A|N/A |Unlicense|N/A|
+|[MSTest.TestFramework](https://www.nuget.org/MSTest.TestFramework)|v2.2.8|12/12/21|Houssem Dellai |MIT|N/A|
+|[Microsoft.EntityFrameworkCore.SqlServer](https://www.nuget.org/Microsoft.EntityFrameworkCore.SqlServer)|v6.0.0|12/17/21|Houssem Dellai |Apache-2.0|N/A|
+|[Microsoft.EntityFrameworkCore.Tools](https://www.nuget.org/Microsoft.EntityFrameworkCore.Tools)|v6.0.0|12/17/21|Houssem Dellai |Apache-2.0|N/A|
+|[Microsoft.VisualStudio.Web.CodeGeneration.Design](https://www.nuget.org/Microsoft.VisualStudio.Web.CodeGeneration.Design)|v6.0.0|12/17/21|Houssem Dellai |Apache-2.0|N/A|
+|[Selenium.Firefox.WebDriver](https://www.nuget.org/Selenium.Firefox.WebDriver)|v0.27.0|12/12/21|Houssem Dellai |Unlicense|N/A|
+|[Selenium.WebDriver](https://www.nuget.org/Selenium.WebDriver)|v4.1.0|12/12/21|Houssem Dellai |Apache-2.0|N/A|
+|[Selenium.WebDriver.ChromeDriver](https://www.nuget.org/Selenium.WebDriver.ChromeDriver)|v96.0.4664|12/12/21|Houssem Dellai |Unlicense|N/A|
+|[Selenium.WebDriver.IEDriver](https://www.nuget.org/Selenium.WebDriver.IEDriver)|v4.0.0|12/12/21|Houssem Dellai |Unlicense|N/A|
 
 <br/>
 <div align='center'>
